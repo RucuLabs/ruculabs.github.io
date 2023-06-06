@@ -10,23 +10,27 @@ main:
 # About
 about:
   title: "About us"
-  desc: "Max Ducim Qua Labo Pa Adre Nam Ased Di Ullam Ess Num Minim Quorecu Re Iur Ipsam Autemo Autem Max Iurer Ut Enim Praese Ips Fugia Ne Dig Assumen Cul Ipsum Velit Magna Inl Odio Enimodi Nonve Sunti Tem Incidu Velqui Lauda Assume Volupt Nih Es Autem Officia Culpa Impedit Harum Blandi Si Quis Dol Facilis Verodo Tot Quib Quoden"
+  desc: "Group of students that like to develop software and electronic solutions for problems (and meme stuff), don't take it too seriously (or maybe do idk)."
   button:
     enable: true
-    text: "Button"
+    text: "Oh no, go back"
     url: "#"
   image: "assets/img/ipad.png"
 
 projects:
   card1:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    title: "Projects"
+    text: "Have a look to some of our projects."
     img: "assets/img/bg-masthead.jpg"
   card2:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    title: "IoTelegram"
+    text: "Telegram bot that manages users and devices of an IoT network. Currently implemented at the FCFM's FabLab (University of Chile)."
     img: "assets/img/demo-image-01.jpg"
   card3:
-    title: "Graysx"
-    text: "Place Cons Rerum Provide SuntSin Incid Fac Nonse Mollitia Quia Itaque! Iusto Necessi Ullam Recusand Nobi Quo Nequ Inulla Beatae Recusand Suscipit Ip Autem Rep Dol Quoquis Inu Rer Odiorem Suscipi Praes Accusant Quia Quosqu Anim Incidunt Nobis Odio Omnis"
+    title: "BioShock"
+    text: "Monitoring system for biomaterials."
+    img: "assets/img/demo-image-02.jpg"
+  card4:
+    title: "TBA"
+    text: "Stay tuned."
     img: "assets/img/demo-image-02.jpg"
