@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 theme = 'graysx'
-title = 'Example Graysx Site'
+title = 'RucuLabs'
 
 ## Site Settings
 [params]
@@ -10,14 +10,14 @@ favicon = "assets/favicon.png"
 
 # Info
 address = "123 Arch B1W, GNU/Linux"
-email = "hello@graysx.com"
+email = "contact@ruculabs.tech"
 phone = "123456"
 
 # Socials
 
 twitter = "#"
 facebook = "#"
-github = "https://github.com/akatiggerx04/graysx-hugo"
+github = "https://github.com/RucuLabs"
 
 # Other
 
