@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #000;      /* Cool Gray */
-    --secondary: #a00000;    /* Raisin Black */
-    --light: #EEF9FF;        /* Default Light Color */
-    --dark: #FFF;         /* Paynes Gray */
+    --primary: #8c91a5;
+    --secondary: #1B202B;
+    --light: #EEF9FF;
+    --dark: #091E3E;
 }
 
 
